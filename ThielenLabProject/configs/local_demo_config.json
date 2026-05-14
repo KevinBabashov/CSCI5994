@@ -1,0 +1,13 @@
+{
+  "project_root": ".",
+  "threads": 4,
+  "platform": "ont",
+  "quality_cutoff": 20,
+  "min_read_length": 50,
+  "max_read_length": 1800,
+  "read_length_for_bracken": 1500,
+  "emu_db": "database/emu",
+  "kraken_db": "database/kraken2",
+  "include_kraken_bracken": true
+}
+

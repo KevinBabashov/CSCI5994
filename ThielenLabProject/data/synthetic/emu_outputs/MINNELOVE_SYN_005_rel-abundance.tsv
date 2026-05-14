@@ -1,0 +1,11 @@
+tax_id	abundance	estimated_counts	species	genus	family	phylum
+SYN0005	0.10000000	12	Corynebacterium accolens	Corynebacterium	Corynebacteriaceae	Actinomycetota
+SYN0006	0.00833333	1	Dolosigranulum pigrum	Dolosigranulum	Carnobacteriaceae	Bacillota
+SYN0002	0.21666667	26	Haemophilus influenzae	Haemophilus	Pasteurellaceae	Pseudomonadota
+SYN0010	0.01666667	2	Lactobacillus crispatus	Lactobacillus	Lactobacillaceae	Bacillota
+SYN0003	0.19166667	23	Moraxella catarrhalis	Moraxella	Moraxellaceae	Pseudomonadota
+SYN0008	0.02500000	3	Neisseria subflava	Neisseria	Neisseriaceae	Pseudomonadota
+SYN0007	0.05000000	6	Prevotella melaninogenica	Prevotella	Prevotellaceae	Bacteroidota
+SYN0004	0.15000000	18	Staphylococcus aureus	Staphylococcus	Staphylococcaceae	Bacillota
+SYN0001	0.19166667	23	Streptococcus pneumoniae	Streptococcus	Streptococcaceae	Bacillota
+SYN0009	0.05000000	6	Veillonella parvula	Veillonella	Veillonellaceae	Bacillota

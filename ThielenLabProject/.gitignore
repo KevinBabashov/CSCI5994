@@ -1,0 +1,39 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local sequencing data should not be committed.
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.cram
+
+# fastp reports can include sample/run metadata from protected sequencing data.
+*fastp*.html
+*fastp*.json
+*fastp*.log
+Data_Pre_Processing/fastp.*
+
+# Keep the small synthetic proof-of-concept FASTQs in version control.
+!data/synthetic/reads/*.fastq.gz
+
+# Tool outputs and scratch files.
+results/
+outputs/
+models/
+*.joblib
+*.log
+*.out.log
+*.err.log
+*.tmp
+scripts/*.preview.sh
+
+# Platform/editor noise.
+.DS_Store
+Thumbs.db
+.~lock.*

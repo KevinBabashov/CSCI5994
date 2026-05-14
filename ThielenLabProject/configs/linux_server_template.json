@@ -1,0 +1,13 @@
+{
+  "project_root": "/path/to/ThielenLabProject",
+  "threads": 16,
+  "platform": "ont",
+  "quality_cutoff": 20,
+  "min_read_length": 50,
+  "max_read_length": 1800,
+  "read_length_for_bracken": 1500,
+  "emu_db": "/path/to/emu_database",
+  "kraken_db": "/path/to/kraken2_database",
+  "include_kraken_bracken": true
+}
+

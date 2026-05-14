@@ -1,0 +1,11 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Corynebacterium accolens	SYN0005	S	10	2	12	0.10000000
+Dolosigranulum pigrum	SYN0006	S	7	2	9	0.07500000
+Haemophilus influenzae	SYN0002	S	7	2	9	0.07500000
+Lactobacillus crispatus	SYN0010	S	0	2	2	0.01666667
+Moraxella catarrhalis	SYN0003	S	27	2	29	0.24166667
+Neisseria subflava	SYN0008	S	12	2	14	0.11666667
+Prevotella melaninogenica	SYN0007	S	7	2	9	0.07500000
+Staphylococcus aureus	SYN0004	S	5	2	7	0.05833333
+Streptococcus pneumoniae	SYN0001	S	23	2	25	0.20833333
+Veillonella parvula	SYN0009	S	2	2	4	0.03333333

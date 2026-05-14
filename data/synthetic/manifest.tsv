@@ -1,0 +1,9 @@
+sample_id	household_id	participant_id	visit_day	symptom_status	virus_status	platform	fastq_path	emu_output	bracken_output	synthetic	read_count
+MINNELOVE_SYN_001	HH01	P01	0	asymptomatic	negative	ont	synthetic/reads/MINNELOVE_SYN_001.fastq.gz	synthetic/emu_outputs/MINNELOVE_SYN_001_rel-abundance.tsv	synthetic/bracken_outputs/MINNELOVE_SYN_001.bracken.tsv	true	120
+MINNELOVE_SYN_002	HH01	P01	7	mild_uri	rhinovirus	ont	synthetic/reads/MINNELOVE_SYN_002.fastq.gz	synthetic/emu_outputs/MINNELOVE_SYN_002_rel-abundance.tsv	synthetic/bracken_outputs/MINNELOVE_SYN_002.bracken.tsv	true	120
+MINNELOVE_SYN_003	HH01	P02	7	mild_uri	rhinovirus	ont	synthetic/reads/MINNELOVE_SYN_003.fastq.gz	synthetic/emu_outputs/MINNELOVE_SYN_003_rel-abundance.tsv	synthetic/bracken_outputs/MINNELOVE_SYN_003.bracken.tsv	true	120
+MINNELOVE_SYN_004	HH02	P03	0	asymptomatic	negative	ont	synthetic/reads/MINNELOVE_SYN_004.fastq.gz	synthetic/emu_outputs/MINNELOVE_SYN_004_rel-abundance.tsv	synthetic/bracken_outputs/MINNELOVE_SYN_004.bracken.tsv	true	120
+MINNELOVE_SYN_005	HH02	P03	14	ili	influenza_a	ont	synthetic/reads/MINNELOVE_SYN_005.fastq.gz	synthetic/emu_outputs/MINNELOVE_SYN_005_rel-abundance.tsv	synthetic/bracken_outputs/MINNELOVE_SYN_005.bracken.tsv	true	120
+MINNELOVE_SYN_006	HH02	P04	14	ili	influenza_a	ont	synthetic/reads/MINNELOVE_SYN_006.fastq.gz	synthetic/emu_outputs/MINNELOVE_SYN_006_rel-abundance.tsv	synthetic/bracken_outputs/MINNELOVE_SYN_006.bracken.tsv	true	120
+MINNELOVE_SYN_007	HH03	P05	0	asymptomatic	negative	pacbio	synthetic/reads/MINNELOVE_SYN_007.fastq.gz	synthetic/emu_outputs/MINNELOVE_SYN_007_rel-abundance.tsv	synthetic/bracken_outputs/MINNELOVE_SYN_007.bracken.tsv	true	120
+MINNELOVE_SYN_008	HH03	P05	7	mild_uri	rsv	pacbio	synthetic/reads/MINNELOVE_SYN_008.fastq.gz	synthetic/emu_outputs/MINNELOVE_SYN_008_rel-abundance.tsv	synthetic/bracken_outputs/MINNELOVE_SYN_008.bracken.tsv	true	120

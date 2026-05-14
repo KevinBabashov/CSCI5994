@@ -1,0 +1,11 @@
+tax_id	species	genus	family	phylum
+SYN0001	Streptococcus pneumoniae	Streptococcus	Streptococcaceae	Bacillota
+SYN0002	Haemophilus influenzae	Haemophilus	Pasteurellaceae	Pseudomonadota
+SYN0003	Moraxella catarrhalis	Moraxella	Moraxellaceae	Pseudomonadota
+SYN0004	Staphylococcus aureus	Staphylococcus	Staphylococcaceae	Bacillota
+SYN0005	Corynebacterium accolens	Corynebacterium	Corynebacteriaceae	Actinomycetota
+SYN0006	Dolosigranulum pigrum	Dolosigranulum	Carnobacteriaceae	Bacillota
+SYN0007	Prevotella melaninogenica	Prevotella	Prevotellaceae	Bacteroidota
+SYN0008	Neisseria subflava	Neisseria	Neisseriaceae	Pseudomonadota
+SYN0009	Veillonella parvula	Veillonella	Veillonellaceae	Bacillota
+SYN0010	Lactobacillus crispatus	Lactobacillus	Lactobacillaceae	Bacillota
