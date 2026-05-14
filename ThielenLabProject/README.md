@@ -1,6 +1,6 @@
 # MINNELOVE Emu Proof of Concept
 
-This repository is a project-ready starting point for a MINNELOVE respiratory microbiome analysis
+This repository is a starting point for a MINNELOVE respiratory microbiome analysis
 interface. The runnable workflow is organized as Python modules and scripts; notebooks are kept for
 exploration and figure/model experiments.
 
